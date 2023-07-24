@@ -38,8 +38,8 @@ Obtain the OpenAI API key for GPT-4 access.
 ```
 OPENAI_API_KEY = <your OPENAI_API_KEY>
 TELEGRAM_BOT_TOKEN = <your TELEGRAM_BOT_TOKEN>
-
 ```
+
 Run the `bot.py` script to start the Telegram bot.  
 Chat with the bot by sending messages, and it will generate responses based on GPT-4.
 
