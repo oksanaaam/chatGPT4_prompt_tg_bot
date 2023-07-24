@@ -1,0 +1,8 @@
+aiogram==2.25.1
+anyio==3.7.1
+openai==0.27.8
+pytest==7.4.0
+pytest-asyncio==0.21.1
+pytest-mock==3.11.1
+python-dotenv==1.0.0
+telegram==0.0.1
